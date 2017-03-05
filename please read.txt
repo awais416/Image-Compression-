@@ -1,0 +1,1 @@
+run the jpeg_DCPM copression code on matlab. Here the original image will be successfully received and compressed.
